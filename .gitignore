@@ -1,0 +1,22 @@
+# WordPress sensitive and generated files
+wp-config.php
+
+# WordPress uploads and temporary files
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+wp-content/backups/
+
+# Database dumps & logs
+*.sql
+*.sql.gz
+*.log
+
+# Environment files
+.env
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
